@@ -20,6 +20,8 @@ Automatically add datatime exif to the images according to its filename
 
 `dir` means where the images stored, if this is not provided, it'll automatically set to current diretory('./').
 
+**filename should be like YYYY-mm-dd_HHmmss.(jpg|png)**
+
 ## Screenshots
 
 ![Screenshot1](https://github.com/user-attachments/assets/7e547c89-edd6-4050-8886-85ff1ca9066f)
